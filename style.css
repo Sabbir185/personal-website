@@ -259,3 +259,12 @@ h2{
 }
 
 
+
+.bg-style{
+    background-color: rgb(232, 245, 245);
+    height: 85%;
+    padding-right: 2%;
+    box-shadow: 2px 4px 10px rgb(192, 191, 191);
+    padding-top: 4%;
+}
+
