@@ -1,0 +1,161 @@
+body{
+    font-family: 'Montserrat', sans-serif; 
+    margin: 0px;
+}
+
+section{
+    height: 550px;
+    padding-bottom: 70px;
+}
+
+p{
+    color: dimgray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    line-height: 1.5em;
+}
+
+.text-align-right {
+    text-align: right;
+    margin: 30px 120px 70px 0px;
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(54, 53, 53);
+}
+
+h1{
+    font-size: 50px;
+    color : #363958;
+    font-weight: bold;
+    line-height: 0.5;
+}
+
+#title-name{
+    font-size: 40px;
+}
+
+h2{
+    color: #363958 ;
+    font-size: 35px;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left : 5% ;
+    padding-left: 2% ;
+    
+}
+.half-width img{
+    width: 100%;
+}
+
+
+.link-button{
+    text-decoration: none;
+    background-color: #ff6347;
+    color: white;
+    padding: 12px 30px;
+    border-radius: 5px;
+    
+}
+
+.salmon-color{
+    color: salmon;
+}
+
+.showup-heading{
+    text-align: center;
+}
+
+.showup-section{
+    background-color: whitesmoke;
+    padding: 70px;
+}
+
+.one-third{
+    width: 26%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 2%;
+    margin-top: 44px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 1px 1px 20px rgb(236, 232, 232);
+    height: 80%;
+}
+
+.inner-div img{
+    width: 100%;
+    height: 80%;
+}
+.inner-div{
+    padding-top: 20px;
+    padding-right: 5%;
+}
+
+.text-area h2{
+    font-size: 20px;
+}
+
+
+.inquery-farewell-section{
+    margin-top: 60px;
+}
+
+.inquiry-area {
+
+    width: 65%;
+    margin: auto;
+    background-image: url("images/Group_33094_1.png");
+    border:1px solid rgb(252, 252, 252);
+    height: 300px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+
+.inquiry-area h3{
+    width: 50%;
+}
+
+#inqu-text{
+    margin: 16% 0% 0% 10%;
+    font-size: 30px;
+    color: white;
+}
+
+
+#chat-link{
+    margin-left: 250px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif ;
+    color : white;
+    background-color: #FA7161;
+    padding: 12px 20px;
+    border-radius: 10px;
+}
+
+
+.contact-area{
+    text-align: center;
+    margin-top: 80px;
+}
+
+.contact-area h4{
+    color: dimgray ;
+}
+
+.logo-size{
+    width: 30px;
+}
+
+
+
+
+
+
+
