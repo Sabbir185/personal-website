@@ -71,6 +71,8 @@ h2{
 .showup-section{
     background-color: whitesmoke;
     padding: 70px;
+    padding-bottom: 13%;
+    margin-bottom: 5%;
 }
 
 .one-third{
@@ -100,7 +102,7 @@ h2{
 
 
 .inquery-farewell-section{
-    margin-top: 60px;
+    margin-top: 50px;
 }
 
 .inquiry-area {
@@ -142,7 +144,7 @@ h2{
 
 .contact-area{
     text-align: center;
-    margin-top: 80px;
+    margin-top: 55px;
 }
 
 .contact-area h4{
@@ -157,5 +159,103 @@ h2{
 
 
 
+.top-skill{
+    text-align: center;
+    padding-top: 50px;
+    margin-top: 3%;
+    background-color: rgb(241, 234, 234);
+    width: 70%;
+    margin: auto;
+    height: 80%;
+    box-shadow: 4px 4px 10px rgb(219, 217, 217);
+}
+
+#tp-style{
+    background-image: linear-gradient(45deg, salmon,tomato);
+    width: 30%;
+    margin: auto;
+    height: 10%;
+    padding-top: 1%;
+    border-radius: 25px;
+}
+
+.skill-brief{
+    margin-left: 16%;
+    margin-right: 7%;
+    margin-top: 6%;
+}
+
+#div-design-1{
+    background-color: tomato;
+    width: 88%;
+    height: 20px;
+    border-radius: 30px;
+    color: white;
+    font-weight: 500;
+    padding-top: 3px;
+}
+#div-design-2{
+    background-color: tomato;
+    width: 75%;
+    height: 20px;
+    border-radius: 30px;
+    color: white;
+    font-weight: 500;
+   padding-top: 3px;
+}
+#div-design-3{
+    background-color: tomato;
+    width: 80%;
+    height: 20px;
+    border-radius: 30px;
+    color: white;
+    font-weight: 500;
+   padding-top: 3px;
+}
+#div-design-4{
+    background-color: tomato;
+    width: 84%;
+    height: 20px;
+    border-radius: 30px;
+    color: white;
+    font-weight: 500;
+   padding-top: 3px;
+}
+#div-design-5{
+    background-color: tomato;
+    width: 60%;
+    height: 20px;
+    border-radius: 30px;
+    color: white;
+    font-weight: 500;
+   padding-top: 3px;
+}
+#div-design-6{
+    background-color: tomato;
+    width: 81%;
+    height: 20px;
+    border-radius: 30px;
+    color: white;
+    font-weight: 500;
+   padding-top: 3px;
+}
+#div-design-7{
+    background-color: tomato;
+    width: 70%;
+    height: 20px;
+    border-radius: 30px;
+    color: white;
+    font-weight: 500;
+   padding-top: 3px;
+}
+#div-design-8{
+    background-color: tomato;
+    width: 86%;
+    height: 20px;
+    border-radius: 30px;
+    color: white;
+    font-weight: 500;
+   padding-top: 3px;
+}
 
 
